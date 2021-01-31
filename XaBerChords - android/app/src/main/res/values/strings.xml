@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">XaBerChords</string>
+    <string name="find_string" />
+    <string name="find_button">find!</string>
+    <string name="name_chords"></string>
+</resources>
